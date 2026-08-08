@@ -1,8 +1,8 @@
 {
   "name": "todo-list",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://dendome.github.io/daily-todo-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
